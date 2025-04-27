@@ -1,4 +1,14 @@
 Emergency Response System Simulation
+
+ Project Information
+Developer Name: Shegaw Afele
+
+Student ID: DBU1501469
+
+Username: admin
+
+Password: 1234
+
 Project Description
 This C# application implements a sophisticated emergency dispatch simulation system that models real-world emergency response scenarios. The system intelligently matches specialized emergency units to incident types while optimizing response times and performance scoring.
 
@@ -59,12 +69,12 @@ Score tracking visibility
 
 Simulation Parameters
 Emergency Units
-Unit Type	Speed	Handles Incident Types
-Police	80	Crime
-Firefighter	70	Fire
-Ambulance	90	Medical
-Rescue Team	60	Rescue
-Hazmat	50	Chemical
+Unit Type   	Speed	Handles      Incident Types
+Police	          80	                    Crime
+Firefighter	      70	                    Fire
+Ambulance	        90	                  Medical
+Rescue Team     	60	                  Rescue
+Hazmat	          50                  	Chemical
 Incident Types
 Fire
 
@@ -128,3 +138,4 @@ User interface development in console applications
 Input validation techniques
 
 Random simulation generation
+
